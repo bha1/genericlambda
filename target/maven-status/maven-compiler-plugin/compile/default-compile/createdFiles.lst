@@ -1,0 +1,4 @@
+com\calculator\app\Application.class
+com\amazonaws\lambda\demo\LambdaFunctionHandler.class
+com\calculator\app\CalculatorRequest.class
+com\calculator\app\CalculatorResponse.class
